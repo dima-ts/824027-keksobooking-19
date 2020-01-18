@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Dima Tsviliak](https://up.htmlacademy.ru/javascript/19/user/824027).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Макаров](https://htmlacademy.ru/profile/deepspiral).
 
 ---
 
